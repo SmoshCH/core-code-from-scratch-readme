@@ -8,7 +8,8 @@
 # Activities
 # Information
 # Markup sytaxis
-- fonts **for strong**
+-tag **for strong**
+-link [Google](https://google.com)
 
 
 
