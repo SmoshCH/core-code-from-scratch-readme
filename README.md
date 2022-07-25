@@ -8,7 +8,10 @@
 # Activities
 # Information
 # Markup sytaxis
-- tag * **for strong**
+- tag **strong ** 
+```markdown
+    **strong**
+```
 - tag link [Google](https://google.com)
 - tag for adding code ``` 
 ```html
