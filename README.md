@@ -11,6 +11,9 @@
 # Week challenges week 1 
 - (Tuesday)
 1. Create an explanation about Interpreted and Compiled programming Languages. 
+    - Compiled languages are: 
+    - interpreted languages are: 
+    
 2. Is Java compiled or interpreted, or both?
 3. Pseudocode Currency Converter exercise.
 4. Learn about High and Low level languages.
