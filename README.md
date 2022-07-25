@@ -8,6 +8,7 @@
 # Activities
 # Information
 # Markdown sytaxis
+[markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - tag **strong** 
 ```markdown
     **strong**
