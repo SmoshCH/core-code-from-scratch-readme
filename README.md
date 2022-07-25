@@ -14,7 +14,7 @@
     - Compiled languages: are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. <br>
     <strong>Example: watching a movie fully dubbed.</strong><br>
     <br> 
-    - interpreted languages are: Ran through a program line by line and execute each command. Interpreted languages were once significantly slower than compiled languages. But, with the development of just-in-time compilation, that gap is shrinking.<br>
+    - Interpreted languages are: Ran through a program line by line and execute each command. Interpreted languages were once significantly slower than compiled languages. But, with the development of just-in-time compilation, that gap is shrinking.<br>
     <strong>Example: watching a movie with subtitles (understanding is a bit slower).</strong><br>
     <br> 
 
