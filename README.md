@@ -7,6 +7,13 @@
 
 # Activities
 # Information
+# Syntaxis
+
+[markdown] (markdown/README.md)
+[html] (markdown/README.md)
+[css] (css/README.md)
+[javascript] (javascript/README.md)
+
 # Markdown sytaxis
 [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - tag **strong** 
