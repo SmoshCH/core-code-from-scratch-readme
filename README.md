@@ -27,7 +27,7 @@ html code
 ```html
     <p>hello world</p>    
 ```
-- tag for adding any code `code`  
+- tag for adding any `code` with ` 
 ```markdown
     `<p nameClase=h1>This is going to be a line of code</p>`  
 ```
