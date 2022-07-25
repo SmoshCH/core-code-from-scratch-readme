@@ -10,10 +10,7 @@
 # Markup sytaxis
 - tag **for strong**
 - link [Google](https://google.com)
-
-
-
-
+- agregar codigo con ``` 
 ```html
     <p> hola mundo</p>
 
