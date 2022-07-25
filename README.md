@@ -10,7 +10,7 @@
 # Syntaxis
 
 - [markdown](markdown/README.md)
-- [html](markdown/README.md)
+- [html](html/README.md)
 - [css](css/README.md)
 - [javascript](javascript/README.md)
 
