@@ -11,9 +11,11 @@
 # Week challenges week 1 
 - (Tuesday)
 1. Create an explanation about Interpreted and Compiled programming Languages. 
-    - Compiled languages are: 
+    - Compiled languages: are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. <br>
+    <strong>Example: watching a movie fully dubbed.</strong><br>
+    <br> 
     - interpreted languages are: 
-    
+
 2. Is Java compiled or interpreted, or both?
 3. Pseudocode Currency Converter exercise.
 4. Learn about High and Low level languages.
