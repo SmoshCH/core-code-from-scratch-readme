@@ -13,9 +13,16 @@
     **strong**
 ```
 - tag link [Google](https://google.com)
-- tag for adding code ``` 
-```html
-    <p> hola mundo</p>
-
+```markdown
+    [Google](https://google.com)
 ```
-
+- tag for adding code ``` 
+```markdown
+    ```markdown
+    
+```
+```
+html code
+```html
+    <p>hello world</p>    
+```
