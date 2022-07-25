@@ -14,9 +14,14 @@
     - Compiled languages: are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. <br>
     <strong>Example: watching a movie fully dubbed.</strong><br>
     <br> 
-    - interpreted languages are: 
+    - interpreted languages are: Ran through a program line by line and execute each command. Interpreted languages were once significantly slower than compiled languages. But, with the development of just-in-time compilation, that gap is shrinking.<br>
+    <strong>Example: watching a movie with subtitles (understanding is a bit slower).</strong><br>
+    <br> 
 
 2. Is Java compiled or interpreted, or both?
+    - Java: Is first compiled into bytecode which JRE can understand. ByteCode is then interpreted by the JVM making it as interpreted language.
+    <strong>(both complied and interpreted language)</strong><br>
+    <br>
 3. Pseudocode Currency Converter exercise.
 4. Learn about High and Low level languages.
 
