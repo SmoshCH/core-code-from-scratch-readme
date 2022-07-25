@@ -22,3 +22,7 @@ html code
 ```markdown
     `<p nameClase=h1>This is going to be a line of code</p>`  
 ```
+- center text using html 
+```html
+    <h1 align="center">Introduction to programming & Javascript - Week 1</h1>   
+```
