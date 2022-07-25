@@ -3,7 +3,7 @@
 # Menu
 - Activities
 - Information
-- Markup sytaxis
+- Markdown sytaxis
 
 # Activities
 # Information
