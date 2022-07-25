@@ -1,3 +1,6 @@
-# core-code-from-scratch-readme
+# Readme
 
-//hello world
+# Menu
+- Activities
+- Information
+
