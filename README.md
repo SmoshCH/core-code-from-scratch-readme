@@ -8,6 +8,8 @@
 # Activities
 # Information
 # Markup sytaxis
+- fonts **for strong**
+
 
 
 
