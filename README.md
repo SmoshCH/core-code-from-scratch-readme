@@ -27,6 +27,9 @@ html code
 ```html
     <p>hello world</p>    
 ```
-- tag for adding any code `###`
-`<p nameClase=h1>This is going to be an corrected parragraph</p>`
+- tag for adding any code `code`  
+```markdown
+    `<p nameClase=h1>This is going to be an corrected parragraph</p>`  
+```
+
 
