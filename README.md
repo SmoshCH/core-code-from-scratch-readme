@@ -29,7 +29,8 @@ html code
 ```
 - tag for adding any code `code`  
 ```markdown
-    `<p nameClase=h1>This is going to be an corrected parragraph</p>`  
+    `<p nameClase=h1>This is going to be a line of code</p>`  
 ```
+
 
 
