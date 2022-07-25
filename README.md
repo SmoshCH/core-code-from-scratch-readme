@@ -8,8 +8,8 @@
 # Activities
 # Information
 # Markup sytaxis
--tag **for strong**
--link [Google](https://google.com)
+- tag **for strong**
+- link [Google](https://google.com)
 
 
 
