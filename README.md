@@ -18,8 +18,8 @@
 ```
 - tag for adding code ``` 
 ```markdown
-    ```markdown
-    
+    ```markdown (add language here)
+        (add code here)
     ```
 ```
 html code
