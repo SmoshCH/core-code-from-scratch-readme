@@ -8,7 +8,7 @@
 # Activities
 # Information
 # Markup sytaxis
-- tag **strong ** 
+- tag **strong** 
 ```markdown
     **strong**
 ```
