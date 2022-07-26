@@ -9,7 +9,7 @@
 <h1 align="center">Introduction to programming & Javascript - Week 1</h1>
 
 # Week challenges week 1 
-- <h1>(Tuesday 19/07/2022)</h1>
+- <h2>(Tuesday 19/07/2022)</h2>
 1. Create an explanation about Interpreted and Compiled programming Languages. 
     - Compiled languages: are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. <br>
     <strong>Example: watching a movie fully dubbed.</strong><br>
@@ -145,4 +145,3 @@
 
 
 
-asdf
