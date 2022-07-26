@@ -23,7 +23,15 @@
     <strong>(both complied and interpreted language)</strong><br>
     <br>
 3. Pseudocode Currency Converter exercise.
+    - START <br> 
+    Amount (USD) <-- GET <br> 
+    BTC rate <--  GET FROM(https://www.coindesk.com/price/bitcoin/)<br> 
+    Total <-- Amount (usd) * BTC rate <br> 
+    PRINT  Total <br> 
+    END
 4. Learn about High and Low level languages.
+    - asdf
+
 
 - (Wednesday)
 1. Your date of birth in the matrix? exercise
