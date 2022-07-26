@@ -9,7 +9,7 @@
 <h1 align="center">Introduction to programming & Javascript - Week 1</h1>
 
 # Week challenges week 1 
-- (Tuesday)
+- <h1>(Tuesday 19/07/2022)</h1>
 1. Create an explanation about Interpreted and Compiled programming Languages. 
     - Compiled languages: are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. <br>
     <strong>Example: watching a movie fully dubbed.</strong><br>
@@ -35,7 +35,7 @@
     - <strong>A high level programming Language</strong> is easy to read, write and maintain they are human friendly, As it's more understandable. 
 
 
-- (Wednesday)
+- (Wednesday 20/07/2022)
 1. Your date of birth in the matrix? exercise
     - 1994 -> 1024 + 512 + 256 + 128 + 64 + 8 + 2 <br>
 
@@ -118,14 +118,14 @@
 ```
 
 
-- (Thursday)
+- (Thursday 21/07/2022)
 
 1. Print special numbers exercise
 2. Bad Code exercise
 3. Bad Code 2 exercise
 4. Follow Git Course
 
-- (Friday)
+- (Friday 22/07/2022)
 
 
 # Week challenges week 2
@@ -142,8 +142,6 @@
 - [html](html/README.md)
 - [css](css/README.md)
 - [javascript](javascript/README.md)
-
-
 
 
 
