@@ -30,7 +30,9 @@
     PRINT  Total <br> 
     END
 4. Learn about High and Low level languages.
-    - asdf
+    - <strong>A Low Level programing language</strong> is considered machine language, and it´s how a program can comunicate with the computer without being compiled nor interpreted. they are very diffucult for humans to understand.
+
+    - <strong>A high level programming Language</strong> is easy to read, write and maintain they are human friendly, As it's more understandable. 
 
 
 - (Wednesday)
