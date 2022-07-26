@@ -121,6 +121,33 @@
 - <h2>(Thursday 21/07/2022)
 
 1. Print special numbers exercise
+    - **for**<br>
+```assembly 
+    for (let i = 0; i <= 100; i++) {
+    if(i % 2 == 0){
+    console.log(i);
+        }
+    }
+```
+
+   - **while**<br>
+```assembly    
+    let i = 0;
+    while (i <= 100) {
+        if (i % 2 == 0) console.log(i);
+        i++;
+    }
+```
+   - **do while**<br>
+```assembly
+let i = 0;
+do {
+  if(i % 2 == 0)console.log(i);
+  i++
+} 
+```
+<br>
+
 2. Bad Code exercise
 3. Bad Code 2 exercise
 4. Follow Git Course
