@@ -35,7 +35,7 @@
     - <strong>A high level programming Language</strong> is easy to read, write and maintain they are human friendly, As it's more understandable. 
 
 
-- (Wednesday 20/07/2022)
+- <h2>(Wednesday 20/07/2022)</h2>
 1. Your date of birth in the matrix? exercise
     - 1994 -> 1024 + 512 + 256 + 128 + 64 + 8 + 2 <br>
 
@@ -118,14 +118,14 @@
 ```
 
 
-- (Thursday 21/07/2022)
+- <h2>(Thursday 21/07/2022)
 
 1. Print special numbers exercise
 2. Bad Code exercise
 3. Bad Code 2 exercise
 4. Follow Git Course
 
-- (Friday 22/07/2022)
+- <h2>(Friday 22/07/2022)</h2>
 
 
 # Week challenges week 2
